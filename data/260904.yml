@@ -7,7 +7,7 @@ about:
   head: 8588e3a
   archived: false
   latestVersion: 3.3.18
-  collectedAt: 2026-09-04T19:20:57Z
+  collectedAt: 2026-09-04T21:13:10Z
 timeline:
   created: 2017-08-05
   lastCommit: 2026-09-01
@@ -82,6 +82,49 @@ total:
   openIssue: 0
   commit: 1272
 ---
+path: /home/runner/.x-repo/github.com/ai/nanoid
+collectedAt: 2026-09-04T21:13:11Z
+loc:
+  Yaml:
+    code: 1530
+    comments: 0
+    blanks: 399
+    files: 2
+  JavaScript:
+    code: 925
+    comments: 98
+    blanks: 156
+    files: 16
+  Json:
+    code: 132
+    comments: 0
+    blanks: 0
+    files: 2
+  TypeScript:
+    code: 31
+    comments: 130
+    blanks: 9
+    files: 4
+  Html:
+    code: 12
+    comments: 0
+    blanks: 0
+    files: 1
+  Svg:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2278
+    blanks: 1038
+    files: 9
+total:
+  code: 2911
+  comments: 2523
+  blanks: 1609
+  files: 36
 ---
 date: "2026-08-24"
 repo:
