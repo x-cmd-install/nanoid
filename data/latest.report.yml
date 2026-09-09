@@ -7,7 +7,7 @@ about:
   latestVersion: "3.3.18"
   latestRelease: "3.3.18"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:07:03Z
+  collectedAt: 2026-09-09T19:25:24Z
 timeline:
   created: 2017-08-05
   lastCommit: 2026-09-01
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-07
   lastPrerelease: 
 popularity:
-  star: 26965
+  star: 26964
   watcher: 162
   fork: 876
   release: 34
@@ -85,7 +85,7 @@ total:
   commit: 1272
 ---
 path: /home/runner/.x-repo/github.com/ai/nanoid
-collectedAt: 2026-09-09T05:07:07Z
+collectedAt: 2026-09-09T19:25:29Z
 loc:
   Yaml:
     code: 1530
