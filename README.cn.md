@@ -4,7 +4,7 @@
 
 A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
-![nanoid](https://repo.x-cmd.io/nanoid.svg)
+![nanoid](https://repo.x-cmd.io/nanoid.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install nanoid
 
 - **最新版本**: `3.3.18` (2026-08-07)
 - **最近提交**: 2026-09-01
-- **发布时间**: 2026-08-03T10:43:38Z
 
 ## 流行度
 
@@ -71,4 +70,4 @@ nanoid 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:13:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:34Z._
