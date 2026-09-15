@@ -14,11 +14,11 @@ x install nanoid
 
 ## Code insight
 
-Total: **2,589** lines of code across **25** files in the top 5 languages.
+Total: **2,199** lines of code across **25** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 1,488 | 0 | 379 | 2 |
+| Yaml | 1,098 | 0 | 275 | 2 |
 | JavaScript | 925 | 98 | 156 | 16 |
 | Json | 131 | 0 | 0 | 2 |
 | TypeScript | 31 | 130 | 9 | 4 |
@@ -26,12 +26,12 @@ Total: **2,589** lines of code across **25** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.3.19` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 26,968 · **Forks**: 876 · **Open issues**: 265 · **Contributors**: 145
+- **Stars**: 26,969 · **Forks**: 876 · **Open issues**: 265 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 0 · **Closed issues**: 265 · **Open issues**: 0 · **Commits**: 1276
+- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 0 · **Closed issues**: 265 · **Open issues**: 0 · **Commits**: 1278
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-16 | 4 | 4 | 0 | 3 | 0 | 12 |
-| 90d | 2026-06-16 | 14 | 7 | 0 | 4 | 0 | 39 |
-| last180d | 2026-03-18 | 19 | 22 | 0 | 8 | 0 | 94 |
-| 360d | 2025-09-19 | 21 | 38 | 0 | 17 | 0 | 123 |
-| last720d | 2024-09-24 | 32 | 60 | 0 | 26 | 0 | 200 |
+| 30d | 2026-08-16 | 1 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-17 | 4 | 4 | 0 | 3 | 0 | 14 |
+| 90d | 2026-06-17 | 14 | 7 | 0 | 4 | 0 | 41 |
+| last180d | 2026-03-19 | 19 | 22 | 0 | 8 | 0 | 96 |
+| 360d | 2025-09-20 | 21 | 38 | 0 | 17 | 0 | 125 |
+| last720d | 2024-09-25 | 32 | 60 | 0 | 26 | 0 | 202 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:15:03Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:18Z._
