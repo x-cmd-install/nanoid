@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,969 · **Forks**: 876 · **Open issues**: 265 · **Contributors**: 145
+- **Stars**: 26,972 · **Forks**: 875 · **Open issues**: 265 · **Contributors**: 145
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 1 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-17 | 4 | 4 | 0 | 3 | 0 | 14 |
-| 90d | 2026-06-17 | 14 | 7 | 0 | 4 | 0 | 41 |
-| last180d | 2026-03-19 | 19 | 22 | 0 | 8 | 0 | 96 |
-| 360d | 2025-09-20 | 21 | 38 | 0 | 17 | 0 | 125 |
-| last720d | 2024-09-25 | 32 | 60 | 0 | 26 | 0 | 202 |
+| 30d | 2026-08-17 | 1 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-18 | 4 | 4 | 0 | 3 | 0 | 14 |
+| 90d | 2026-06-18 | 14 | 7 | 0 | 4 | 0 | 41 |
+| last180d | 2026-03-20 | 19 | 22 | 0 | 8 | 0 | 96 |
+| 360d | 2025-09-21 | 21 | 38 | 0 | 17 | 0 | 125 |
+| last720d | 2024-09-26 | 32 | 60 | 0 | 25 | 0 | 202 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:18Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:14:18Z._
