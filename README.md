@@ -4,7 +4,7 @@
 
 A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
-![nanoid](https://repo.x-cmd.io/nanoid.svg)
+[![x-cmd/install — nanoid Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nanoid.svg)](https://x-cmd.com/install/nanoid)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,977 · **Forks**: 875 · **Open issues**: 265 · **Contributors**: 145
+- **Stars**: 26,976 · **Forks**: 875 · **Open issues**: 266 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 0 · **Closed issues**: 265 · **Open issues**: 0 · **Commits**: 1279
+- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 0 · **Closed issues**: 266 · **Open issues**: 0 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 1 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-20 | 4 | 4 | 0 | 3 | 0 | 15 |
-| 90d | 2026-06-20 | 10 | 7 | 0 | 4 | 0 | 42 |
-| last180d | 2026-03-22 | 19 | 22 | 0 | 8 | 0 | 97 |
-| 360d | 2025-09-23 | 20 | 38 | 0 | 16 | 0 | 126 |
-| last720d | 2024-09-28 | 32 | 60 | 0 | 25 | 0 | 203 |
+| 30d | 2026-08-21 | 1 | 1 | 0 | 0 | 0 | 8 |
+| last60d | 2026-07-22 | 4 | 4 | 0 | 3 | 0 | 15 |
+| 90d | 2026-06-22 | 7 | 7 | 0 | 3 | 0 | 42 |
+| last180d | 2026-03-24 | 19 | 22 | 0 | 8 | 0 | 97 |
+| 360d | 2025-09-25 | 20 | 38 | 0 | 16 | 0 | 126 |
+| last720d | 2024-09-30 | 32 | 60 | 0 | 25 | 0 | 203 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:02:14Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:17:28Z._
