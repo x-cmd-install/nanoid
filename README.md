@@ -4,7 +4,7 @@
 
 A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
-[![x-cmd/install — nanoid Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nanoid.svg)](https://x-cmd.com/install/nanoid)
+[![x-cmd/install — nanoid Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/nanoid.svg)](https://x-cmd.com/install/nanoid)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 26,981 · **Forks**: 875 · **Open issues**: 266 · **Contributors**: 145
+- **Stars**: 26,983 · **Forks**: 876 · **Open issues**: 266 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 0 · **Closed issues**: 266 · **Open issues**: 0 · **Commits**: 1279
+- **Releases**: 35 · **Merged PRs**: 248 · **Open PRs**: 1 · **Closed issues**: 266 · **Open issues**: 0 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-24 | 4 | 4 | 0 | 3 | 0 | 14 |
-| 90d | 2026-06-24 | 7 | 6 | 0 | 3 | 0 | 37 |
-| last180d | 2026-03-26 | 19 | 22 | 0 | 8 | 0 | 97 |
-| 360d | 2025-09-27 | 20 | 38 | 0 | 16 | 0 | 126 |
-| last720d | 2024-10-02 | 32 | 60 | 0 | 25 | 0 | 203 |
+| 30d | 2026-08-24 | 1 | 1 | 1 | 0 | 0 | 8 |
+| last60d | 2026-07-25 | 4 | 4 | 1 | 3 | 0 | 14 |
+| 90d | 2026-06-25 | 6 | 6 | 1 | 3 | 0 | 37 |
+| last180d | 2026-03-27 | 19 | 22 | 1 | 8 | 0 | 97 |
+| 360d | 2025-09-28 | 20 | 38 | 1 | 16 | 0 | 126 |
+| last720d | 2024-10-03 | 32 | 60 | 1 | 25 | 0 | 203 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:13:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:12:45Z._
