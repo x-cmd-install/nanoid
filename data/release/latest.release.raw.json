@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ai/nanoid/releases/364144056",
-  "assets_url": "https://api.github.com/repos/ai/nanoid/releases/364144056/assets",
-  "upload_url": "https://uploads.github.com/repos/ai/nanoid/releases/364144056/assets{?name,label}",
-  "html_url": "https://github.com/ai/nanoid/releases/tag/6.0.1",
-  "id": 364144056,
+  "url": "https://api.github.com/repos/ai/nanoid/releases/404099311",
+  "assets_url": "https://api.github.com/repos/ai/nanoid/releases/404099311/assets",
+  "upload_url": "https://uploads.github.com/repos/ai/nanoid/releases/404099311/assets{?name,label}",
+  "html_url": "https://github.com/ai/nanoid/releases/tag/6.0.2",
+  "id": 404099311,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBey-U84VtGW4",
-  "tag_name": "6.0.1",
+  "node_id": "RE_kwDOBey-U84YFhDv",
+  "tag_name": "6.0.2",
   "target_commitish": "main",
-  "name": "6.0.1",
+  "name": "6.0.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-08-03T10:43:20Z",
-  "updated_at": "2026-08-03T10:43:38Z",
-  "published_at": "2026-08-03T10:43:38Z",
+  "created_at": "2026-10-05T21:16:44Z",
+  "updated_at": "2026-10-05T21:22:03Z",
+  "published_at": "2026-10-05T21:22:03Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/ai/nanoid/tarball/6.0.1",
-  "zipball_url": "https://api.github.com/repos/ai/nanoid/zipball/6.0.1",
-  "body": "- Fixed docs.",
-  "reactions": {
-    "url": "https://api.github.com/repos/ai/nanoid/releases/364144056/reactions",
-    "total_count": 2,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 1,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/ai/nanoid/tarball/6.0.2",
+  "zipball_url": "https://api.github.com/repos/ai/nanoid/zipball/6.0.2",
+  "body": "- Reduced JS bundle size (by @bayandin).\n- Fixed floats in size of `customRandom` (by @lost-signals).\n- Fixed performance of `customRandom` on changes size (by @00200200).\n- Fixed docs (by @Likio3000 & @lenamonj).",
+  "mentions_count": 5
 }
