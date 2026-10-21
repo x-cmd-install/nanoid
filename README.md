@@ -30,8 +30,8 @@ Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,109 · **Forks**: 894 · **Open issues**: 270 · **Contributors**: 152
+- **Stars**: 27,108 · **Forks**: 894 · **Open issues**: 270 · **Contributors**: 152
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 7 | 1 | 3 | 1 | 12 |
-| last60d | 2026-08-21 | 3 | 8 | 1 | 3 | 1 | 21 |
-| 90d | 2026-07-22 | 6 | 11 | 1 | 6 | 1 | 27 |
-| last180d | 2026-04-23 | 19 | 17 | 1 | 10 | 1 | 90 |
-| 360d | 2025-10-25 | 22 | 44 | 1 | 17 | 1 | 138 |
-| last720d | 2024-10-30 | 33 | 66 | 1 | 27 | 1 | 211 |
+| 30d | 2026-09-21 | 2 | 7 | 1 | 3 | 1 | 12 |
+| last60d | 2026-08-22 | 3 | 8 | 1 | 3 | 1 | 21 |
+| 90d | 2026-07-23 | 6 | 11 | 1 | 6 | 1 | 27 |
+| last180d | 2026-04-24 | 19 | 17 | 1 | 10 | 1 | 90 |
+| 360d | 2025-10-26 | 22 | 44 | 1 | 17 | 1 | 138 |
+| last720d | 2024-10-31 | 33 | 66 | 1 | 27 | 1 | 211 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:07:43Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:59:36Z._
