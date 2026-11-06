@@ -14,12 +14,12 @@ x install nanoid
 
 ## Code insight
 
-Total: **2,185** lines of code across **23** files in the top 5 languages.
+Total: **2,182** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 1,084 | 0 | 271 | 2 |
-| JavaScript | 941 | 104 | 155 | 15 |
+| JavaScript | 938 | 104 | 155 | 15 |
 | Json | 105 | 0 | 0 | 1 |
 | TypeScript | 41 | 131 | 9 | 4 |
 | Html | 12 | 0 | 0 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `6.0.2` (2026-10-05)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-11-05
 
 ## Popularity
 
-- **Stars**: 27,123 · **Forks**: 896 · **Open issues**: 270 · **Contributors**: 152
+- **Stars**: 27,124 · **Forks**: 896 · **Open issues**: 270 · **Contributors**: 153
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 255 · **Open PRs**: 1 · **Closed issues**: 269 · **Open issues**: 1 · **Commits**: 1292
+- **Releases**: 37 · **Merged PRs**: 256 · **Open PRs**: 1 · **Closed issues**: 270 · **Open issues**: 0 · **Commits**: 1293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 2 | 0 | 3 | 0 | 5 |
-| last60d | 2026-09-06 | 3 | 7 | 1 | 3 | 1 | 20 |
-| 90d | 2026-08-07 | 4 | 8 | 1 | 5 | 1 | 22 |
-| last180d | 2026-05-09 | 16 | 16 | 1 | 10 | 1 | 80 |
-| 360d | 2025-11-10 | 22 | 44 | 1 | 17 | 1 | 138 |
-| last720d | 2024-11-15 | 33 | 65 | 1 | 27 | 1 | 211 |
+| 30d | 2026-10-07 | 0 | 3 | 0 | 3 | 0 | 6 |
+| last60d | 2026-09-07 | 3 | 8 | 1 | 4 | 0 | 21 |
+| 90d | 2026-08-08 | 3 | 9 | 1 | 6 | 0 | 23 |
+| last180d | 2026-05-10 | 16 | 17 | 1 | 11 | 0 | 81 |
+| 360d | 2025-11-11 | 22 | 45 | 1 | 18 | 0 | 139 |
+| last720d | 2024-11-16 | 33 | 66 | 1 | 28 | 0 | 211 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:56:23Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:58:49Z._
