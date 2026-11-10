@@ -26,12 +26,12 @@ x install nanoid
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.4 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -47,7 +47,7 @@ x install nanoid
 
 ## 流行度
 
-- **Star**: 27,128 · **Fork**: 895 · **开放 issue**: 270 · **贡献者**: 153
+- **Star**: 27,130 · **Fork**: 895 · **开放 issue**: 270 · **贡献者**: 153
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install nanoid
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 2 | 0 | 3 | 0 | 4 |
-| last60d | 2026-09-10 | 3 | 8 | 1 | 4 | 0 | 15 |
-| 90d | 2026-08-11 | 3 | 9 | 1 | 6 | 0 | 22 |
-| last180d | 2026-05-13 | 16 | 17 | 1 | 11 | 0 | 81 |
-| 360d | 2025-11-14 | 22 | 45 | 1 | 18 | 0 | 139 |
-| last720d | 2024-11-19 | 33 | 66 | 1 | 28 | 0 | 211 |
+| 30d | 2026-10-11 | 0 | 2 | 0 | 3 | 0 | 4 |
+| last60d | 2026-09-11 | 2 | 8 | 1 | 4 | 0 | 15 |
+| 90d | 2026-08-12 | 3 | 9 | 1 | 6 | 0 | 22 |
+| last180d | 2026-05-14 | 16 | 17 | 1 | 11 | 0 | 81 |
+| 360d | 2025-11-15 | 22 | 45 | 1 | 18 | 0 | 139 |
+| last720d | 2024-11-20 | 33 | 66 | 1 | 28 | 0 | 211 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ nanoid 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T06:45:45Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:35:22Z._
