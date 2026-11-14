@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 2 | 1 | 3 | 0 | 4 |
-| last60d | 2026-09-14 | 2 | 8 | 2 | 4 | 0 | 15 |
-| 90d | 2026-08-15 | 3 | 9 | 2 | 4 | 0 | 22 |
-| last180d | 2026-05-17 | 16 | 17 | 2 | 11 | 0 | 81 |
-| 360d | 2025-11-18 | 22 | 45 | 2 | 18 | 0 | 139 |
-| last720d | 2024-11-23 | 33 | 65 | 2 | 28 | 0 | 210 |
+| 30d | 2026-10-15 | 0 | 1 | 1 | 2 | 0 | 4 |
+| last60d | 2026-09-15 | 2 | 8 | 2 | 4 | 0 | 15 |
+| 90d | 2026-08-16 | 3 | 9 | 2 | 4 | 0 | 22 |
+| last180d | 2026-05-18 | 16 | 17 | 2 | 10 | 0 | 81 |
+| 360d | 2025-11-19 | 22 | 45 | 2 | 18 | 0 | 139 |
+| last720d | 2024-11-24 | 33 | 65 | 2 | 28 | 0 | 210 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:16:28Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:52:35Z._
