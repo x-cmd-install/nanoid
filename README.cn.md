@@ -30,8 +30,8 @@ x install nanoid
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -47,7 +47,7 @@ x install nanoid
 
 ## 流行度
 
-- **Star**: 27,132 · **Fork**: 1,003 · **开放 issue**: 270 · **贡献者**: 153
+- **Star**: 27,134 · **Fork**: 1,071 · **开放 issue**: 270 · **贡献者**: 153
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install nanoid
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 1 | 1 | 2 | 0 | 1 |
-| last60d | 2026-09-17 | 2 | 8 | 2 | 4 | 0 | 14 |
-| 90d | 2026-08-18 | 3 | 9 | 2 | 4 | 0 | 22 |
-| last180d | 2026-05-20 | 16 | 17 | 2 | 9 | 0 | 76 |
-| 360d | 2025-11-21 | 22 | 45 | 2 | 17 | 0 | 139 |
-| last720d | 2024-11-26 | 33 | 62 | 2 | 28 | 0 | 207 |
+| 30d | 2026-10-18 | 0 | 1 | 1 | 2 | 0 | 1 |
+| last60d | 2026-09-18 | 2 | 8 | 2 | 4 | 0 | 14 |
+| 90d | 2026-08-19 | 3 | 9 | 2 | 4 | 0 | 22 |
+| last180d | 2026-05-21 | 16 | 17 | 2 | 9 | 0 | 76 |
+| 360d | 2025-11-22 | 22 | 45 | 2 | 17 | 0 | 139 |
+| last720d | 2024-11-27 | 32 | 62 | 2 | 28 | 0 | 198 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ nanoid 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:55:39Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:13:28Z._
