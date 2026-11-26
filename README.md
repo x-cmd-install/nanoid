@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `6.0.2` (2026-10-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 27,141 · **Forks**: 1,114 · **Open issues**: 270 · **Contributors**: 153
+- **Stars**: 27,143 · **Forks**: 1,113 · **Open issues**: 270 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 256 · **Open PRs**: 1 · **Closed issues**: 270 · **Open issues**: 0 · **Commits**: 1293
+- **Releases**: 37 · **Merged PRs**: 257 · **Open PRs**: 1 · **Closed issues**: 270 · **Open issues**: 0 · **Commits**: 1294
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-26 | 2 | 7 | 1 | 4 | 0 | 13 |
-| 90d | 2026-08-27 | 3 | 9 | 1 | 4 | 0 | 22 |
-| last180d | 2026-05-29 | 16 | 15 | 1 | 8 | 0 | 76 |
-| 360d | 2025-11-30 | 22 | 45 | 1 | 17 | 0 | 139 |
-| last720d | 2024-12-05 | 32 | 62 | 1 | 28 | 0 | 198 |
+| 30d | 2026-10-27 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-27 | 2 | 8 | 1 | 4 | 0 | 14 |
+| 90d | 2026-08-28 | 3 | 10 | 1 | 4 | 0 | 23 |
+| last180d | 2026-05-30 | 16 | 16 | 1 | 8 | 0 | 77 |
+| 360d | 2025-12-01 | 22 | 46 | 1 | 17 | 0 | 140 |
+| last720d | 2024-12-06 | 32 | 63 | 1 | 28 | 0 | 197 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for nanoid lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:58:02Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:42:12Z._
