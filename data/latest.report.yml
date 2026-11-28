@@ -7,7 +7,7 @@ about:
   latestVersion: "6.0.2"
   latestRelease: "6.0.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:43:43Z
+  collectedAt: 2026-11-28T08:03:26Z
 timeline:
   created: 2017-08-05
   lastCommit: 2026-11-25
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 27148
   watcher: 157
-  fork: 1132
+  fork: 1179
   release: 37
   contributor: 154
-  pullRequest: 317
+  pullRequest: 318
   issue: 270
 language:
   JavaScript: 34473
@@ -29,7 +29,7 @@ language:
 totalBytes: 36020
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 2
     openPR: 0
@@ -37,15 +37,15 @@ recent:
     openIssue: 0
     commit: 2
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 8
-    openPR: 1
+    mergedPR: 7
+    openPR: 0
     closedIssue: 4
     openIssue: 0
     commit: 14
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 10
     openPR: 1
@@ -53,7 +53,7 @@ recent:
     openIssue: 0
     commit: 23
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 16
     mergedPR: 16
     openPR: 1
@@ -61,7 +61,7 @@ recent:
     openIssue: 0
     commit: 77
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 22
     mergedPR: 46
     openPR: 1
@@ -69,7 +69,7 @@ recent:
     openIssue: 0
     commit: 140
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 32
     mergedPR: 63
     openPR: 1
@@ -79,13 +79,13 @@ recent:
 total:
   release: 37
   mergedPR: 257
-  openPR: 1
+  openPR: 2
   closedIssue: 270
   openIssue: 0
   commit: 1294
 ---
 path: /home/runner/.x-repo/github.com/ai/nanoid
-collectedAt: 2026-11-27T09:43:45Z
+collectedAt: 2026-11-28T08:03:27Z
 loc:
   Yaml:
     code: 1084
